@@ -1,8 +1,5 @@
 @charset "UTF-8";
-@font-face {
-  font-family: Arial, Helvetica, sans-serif;
 
-}
 body {
   font-family: Arial, sans-serif;
     background-color: #241081;
@@ -22,7 +19,6 @@ p {
   text-indent: 80px;
   padding: 15px;
 }
-
 
 a {
   color: #606060;
