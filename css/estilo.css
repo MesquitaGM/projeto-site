@@ -40,7 +40,7 @@ header#cabecalho img#icone {
 header#cabecalho {
   border-bottom: 1px #606060 solid;
   height: 150px;
-  background: url("../_imagens/fundocabecalho.png")no-repeat;  
+  background: url("../imagens/fundocabecalho.png")no-repeat;  
 }
 
 header#cabecalho h1 {
