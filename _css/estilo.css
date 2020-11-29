@@ -1,6 +1,7 @@
 @charset "UTF-8";
 @font-face {
-  font-family: cursive, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
+
 }
 body {
   font-family: Arial, sans-serif;
@@ -43,11 +44,11 @@ header#cabecalho img#icone {
 header#cabecalho {
   border-bottom: 1px #606060 solid;
   height: 150px;
-  background: url("../_imagens/fundocabecalho.jpg")no-repeat;  
+  background: url("../_imagens/fundocabecalho.png")no-repeat;  
 }
 
 header#cabecalho h1 {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 
   font-size: 30pt;
   color: #606060;
   text-shadow: 1px 1px 1px rgba(0,0,0,.6);
@@ -65,7 +66,7 @@ header#cabecalho h2 {
 
 
 header#cabecalho-artigo h1 {
-  font-family: 'FonteLogo', sans-serif;
+  font-family: Arial, Helvetica, sans-serif
   font-size: 20pt;
   color: #606060;
   margin-bottom: 0;
